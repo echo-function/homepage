@@ -12,7 +12,7 @@
             "Flashback": "https://flashback.org/",
             "PTG": "http://boards.4chan.org/g/catalog#s=ptg",
             "Sverigetråden": "http://boards.4chan.org/int/catalog#s=sverige",
-            "Biz": "https://boards.4channel.org/biz/"
+            "Biz": "https://boards.4channel.org/biz/catalog"
         },
         "entertainment": {
             "Twitch": "https://www.twitch.tv/directory/following/live",
@@ -27,11 +27,19 @@
             "Twitter": "http://twitter.com/",
             "Tumblr": "https://bampersand.tumblr.com/"
         },
+        "money":{
+            "Coingecko": "https://coingecko.com",
+            "FTX": "https://ftx.com/wallet",
+            "Binance": "https://binance.com",
+            "Kraken": "https://kraken.com",
+            "Coinbase": "https://coinbase.com",
+            "KuCoin": "https://kucoin.com"
+        },
         "trackers": {
             "Redacted": "http://redacted.ch/",
             "Animebytes": "http://animebytes.tv/",
             "GazelleGames": "https://gazellegames.net/",
-            "MoreThanTv": "http://morethan.tv/",
+            "MoreThanTv": "http://morethantv.me/",
             "Orpheus": "https://orpheus.network/",
             "MyAnonaMouse": "https://www.myanonamouse.net/",
             "IPTorrents": "https://iptorrents.com/",
@@ -62,7 +70,7 @@
         }
     },
     "welcomeText": {
-        "name": "Mikael"
+        "name": ""
     },
     "lastfm": {
         "username": "Cyanisyde",
