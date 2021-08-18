@@ -29,6 +29,7 @@
         },
         "money":{
             "Coingecko": "https://coingecko.com",
+            "TradingView": "https://tradingview.com/chart/",
             "FTX": "https://ftx.com/wallet",
             "Binance": "https://binance.com",
             "Kraken": "https://kraken.com",
