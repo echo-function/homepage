@@ -35,7 +35,7 @@
             "Kraken": "https://kraken.com",
             "Coinbase": "https://coinbase.com",
             "KuCoin": "https://kucoin.com",
-            "Global Volume Monitor" : "https://ftx.com/volume-monitor",
+            "Volume monitor" : "https://ftx.com/volume-monitor",
             "OKex market data": "https://www.okex.com/markets/swap-data/btc-usd"
         },
         "trackers": {
