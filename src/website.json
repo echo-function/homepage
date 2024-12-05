@@ -27,7 +27,7 @@
             "Twitter": "http://twitter.com/",
             "Tumblr": "https://bampersand.tumblr.com/"
         },
-        "money":{
+        "money": {
             "Coingecko": "https://coingecko.com",
             "TradingView": "https://tradingview.com/chart/",
             "FTX": "https://ftx.com/wallet",
@@ -35,11 +35,11 @@
             "Kraken": "https://kraken.com",
             "Coinbase": "https://coinbase.com",
             "KuCoin": "https://kucoin.com",
-            "Volume monitor" : "https://ftx.com/volume-monitor",
+            "Volume monitor": "https://ftx.com/volume-monitor",
             "OKex market data": "https://www.okex.com/markets/swap-data/btc-usd"
         },
         "trackers": {
-            "Redacted": "http://redacted.ch/",
+            "Redacted": "http://redacted.sh/",
             "Animebytes": "http://animebytes.tv/",
             "GazelleGames": "https://gazellegames.net/",
             "MoreThanTv": "http://morethantv.me/",
